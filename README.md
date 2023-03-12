@@ -77,18 +77,21 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 项目合作洽谈请联系微信`youjunqifei`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
 
-项目演示地址：微信小程序：智能AI聊天工具
 
-<img alt="WechatIMG548.jpeg" src="static/WechatIMG548.jpeg"/>
+项目演示地址：vx小程序：智能AI聊天工具
+
+<a href='https://postimg.cc/Z9mhW6VT' target='_blank'><img src='https://i.postimg.cc/Z9mhW6VT/Wechat-IMG548.jpg' border='0' alt='Wechat-IMG548'/></a>
 
 技术爱好者交流群：
 
-<img alt="WechatIMG549.jpeg" src="static/WechatIMG549.jpeg"/>
+<a href='https://postimg.cc/nCskD5Pk' target='_blank'><img src='https://i.postimg.cc/nCskD5Pk/Wechat-IMG724.jpg' border='0' alt='Wechat-IMG724'/></a>
 
 
 需求定制联系： 微信：youjunqifei
 
-<img alt="WechatIMG550.jpeg" src="static/WechatIMG3549.jpeg"/>
+<a href='https://postimg.cc/6TPVtcpG' target='_blank'><img src='https://i.postimg.cc/6TPVtcpG/Wechat-IMG550.jpg' border='0' alt='Wechat-IMG550'/></a>
+
+--------------------------------------------------------------------
 
 非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解更进，可以加入我的知识星球。扫码了解详情：
 
